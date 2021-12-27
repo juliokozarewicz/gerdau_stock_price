@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 1
+
+Variable: GERDAU STOCK PRICE (R$)
+ADF Test: -7.892532
+P-value: 0.000000
+Lags: 4
+Observations: 245
+Critical values:
+  1%: -3.996204
+  5%: -3.428564
+  10%: -3.137670
+--------------------------------------------------

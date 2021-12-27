@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: GERDAU STOCK PRICE (R$) (level)
+Mean: 14.52
+Median: 14.59
+Sample std: 7.66
+Variance: 58.63
+Lowest: 1.51
+Highest: 34.30
+--------------------------------------------------
